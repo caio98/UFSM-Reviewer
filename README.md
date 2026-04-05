@@ -21,6 +21,7 @@ Coordenação: Prof.ª Andrea Schwertner Charão.
 - [Requisitos de Hardware](#requisitos-de-hardware)
 - [Instalação](#instalação)
 - [Uso](#uso)
+- [Status do Projeto](#status-do-projeto)
 - [Roteiro de Desenvolvimento](#roteiro-de-desenvolvimento)
 - [Resultados Esperados](#resultados-esperados)
 - [Equipe](#equipe)
@@ -229,14 +230,30 @@ Todo o processamento ocorre localmente. **Nenhum dado é enviado a servidores ex
 
 ---
 
-## Roteiro de Desenvolvimento
+## Status do Projeto
 
-| Fase | Período | Descrição |
+### Fase de Planejamento
+
+| Etapa | Status | Detalhes |
 |---|---|---|
-| **Fase 1** | Meses 1–2 | Infraestrutura, Prova de Conceito (Agentes 1 e 4, interface básica) |
-| **Fase 2** | Meses 3–4 | Integração da Semantic Scholar API, Agentes 2, 3 e 5, banco vetorial |
-| **Fase 3** | Meses 5–6 | Validação por simulação de revisão por pares (50 artigos, experimento pedagógico) |
-| **Fase 4** | Meses 7–8 | Documentação, publicação do artigo científico, implantação institucional |
+| Inicialização do projeto (BMad) | ✅ Concluído | Framework BMad configurado, estrutura de diretórios criada |
+| Análise de requisitos e domínio | ✅ Concluído | Documento base revisado, personas e roadmap definidos |
+| Visão do produto | ✅ Concluído | Proposta de valor, diferenciais e KPIs institucionais definidos |
+| Rascunho do sumário executivo (PRD) | ✅ Concluído | Sumário executivo do PRD elaborado |
+| PRD completo | 🔄 Em andamento | Detalhamento de requisitos funcionais e não-funcionais em progresso |
+| Arquitetura técnica | ⏳ Pendente | — |
+| Histórias de usuário / Epics | ⏳ Pendente | — |
+
+### Fases de Desenvolvimento
+
+| Fase | Período | Descrição | Status |
+|---|---|---|---|
+| **Fase 1** | Meses 1–2 | Infraestrutura, Prova de Conceito (Agentes 1 e 4, interface básica) | ⏳ Pendente |
+| **Fase 2** | Meses 3–4 | Integração da Semantic Scholar API, Agentes 2, 3 e 5, banco vetorial | ⏳ Pendente |
+| **Fase 3** | Meses 5–6 | Validação por simulação de revisão por pares (50 artigos, experimento pedagógico) | ⏳ Pendente |
+| **Fase 4** | Meses 7–8 | Documentação, publicação do artigo científico, implantação institucional | ⏳ Pendente |
+
+## Roteiro de Desenvolvimento
 
 ---
 
